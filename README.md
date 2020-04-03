@@ -4,28 +4,8 @@ You can use the [editor on GitHub](https://github.com/ngendera/cloudclickfunnels
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+<div class="container noTopMargin padding40-top padding40-bottom padding40H noBorder borderSolid border3px cornersAll radius0 activeSection_topBorder0 activeSection_bottomBorder0 emptySection shadow0 fullContainer bgCover101" id="section-6415310000-146-110-123-163-126" data-title="Order Form" data-block-color="0074C7" style="padding-top: 15px; padding-bottom: 30px; outline: none; background-color: rgb(255, 255, 255); margin-top: 0px;" data-trigger="none" data-animate="fade" data-delay="500">
+<div class="containerInner ui-sortable" style="">
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
